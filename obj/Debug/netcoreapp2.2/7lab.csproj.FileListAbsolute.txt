@@ -1,0 +1,11 @@
+/home/sycale/Documents/SharpLabs/7lab/obj/Debug/netcoreapp2.2/7lab.csprojAssemblyReference.cache
+/home/sycale/Documents/SharpLabs/7lab/obj/Debug/netcoreapp2.2/7lab.csproj.CoreCompileInputs.cache
+/home/sycale/Documents/SharpLabs/7lab/obj/Debug/netcoreapp2.2/7lab.AssemblyInfoInputs.cache
+/home/sycale/Documents/SharpLabs/7lab/obj/Debug/netcoreapp2.2/7lab.AssemblyInfo.cs
+/home/sycale/Documents/SharpLabs/7lab/bin/Debug/netcoreapp2.2/7lab.deps.json
+/home/sycale/Documents/SharpLabs/7lab/bin/Debug/netcoreapp2.2/7lab.runtimeconfig.json
+/home/sycale/Documents/SharpLabs/7lab/bin/Debug/netcoreapp2.2/7lab.runtimeconfig.dev.json
+/home/sycale/Documents/SharpLabs/7lab/bin/Debug/netcoreapp2.2/7lab.dll
+/home/sycale/Documents/SharpLabs/7lab/bin/Debug/netcoreapp2.2/7lab.pdb
+/home/sycale/Documents/SharpLabs/7lab/obj/Debug/netcoreapp2.2/7lab.dll
+/home/sycale/Documents/SharpLabs/7lab/obj/Debug/netcoreapp2.2/7lab.pdb
